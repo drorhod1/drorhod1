@@ -22,9 +22,8 @@
 
 
 🤝🏻 Connect with Me:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
-([LinkedIn](https://www.linkedin.com/in/dror-hod-4a133a177/))
-<!--
+&nbsp; <a href="https://www.linkedin.com/in/dror-hod-4a133a177/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+
 **drorhod1/drorhod1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
