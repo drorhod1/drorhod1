@@ -1,6 +1,7 @@
-### Hi there I'm Dror👋
+<h2>Hi there I'm Dror👋</h2>
 <br/>
 <h3> 👨🏻‍💻 About Me </h3>
+
 - 🔭 &nbsp;  I’m currently deepening my knowledge about software architecture and everything around it
 - 🚀 &nbsp; Fullstack developer, formerly a QA engineer
 - 🧪 &nbsp; Transitioned from ensuring quality to crafting robust solutions
