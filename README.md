@@ -1,15 +1,15 @@
 ### Hi there I'm Dror👋
 <br/>
 <h3> 👨🏻‍💻 About Me </h3>
-- 🔭   I’m currently deepening my knowledge about software architecture and everything around it
-- 🚀 Fullstack developer, formerly a QA engineer
-- 🧪 Transitioned from ensuring quality to crafting robust solutions
-- 💻 Proficient in both front-end and back-end development
-- 🔧 Skilled in identifying and fixing bugs from both sides of the spectrum
-- 🌟 Passionate about creating seamless user experiences through code
-- 🎯 Always striving for excellence and continuous improvement
-- ☕ I believe, a perfect cup of coffee can be the ultimate solution for any stress.
-- 💬 Let's collaborate and build something amazing together!
+- 🔭 &nbsp;  I’m currently deepening my knowledge about software architecture and everything around it
+- 🚀 &nbsp; Fullstack developer, formerly a QA engineer
+- 🧪 &nbsp; Transitioned from ensuring quality to crafting robust solutions
+- 💻 &nbsp; Proficient in both front-end and back-end development
+- 🔧 &nbsp; Skilled in identifying and fixing bugs from both sides of the spectrum
+- 🌟 &nbsp; Passionate about creating seamless user experiences through code
+- 🎯 &nbsp; Always striving for excellence and continuous improvement
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
+- 💬 &nbsp; Let's collaborate and build something amazing together!
 <br/>
 <h3>🛠 Tech Stack</h3>
 
