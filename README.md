@@ -21,8 +21,9 @@
 🔑   AWS Cognito | Firebase Auth | Azure AD
 
 
-🤝🏻 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([LinkedIn](https://www.linkedin.com/in/dror-hod-4a133a177/))
+🤝🏻 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]
+([LinkedIn](https://www.linkedin.com/in/dror-hod-4a133a177/))
 <!--
 **drorhod1/drorhod1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
